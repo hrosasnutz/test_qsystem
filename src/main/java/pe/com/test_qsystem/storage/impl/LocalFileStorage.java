@@ -8,4 +8,5 @@ public class LocalFileStorage implements FileStorage {
     public void saveFile(String path) {
         System.out.println("save file on local disk.");
     }
+    
 }

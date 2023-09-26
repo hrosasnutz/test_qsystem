@@ -13,4 +13,5 @@ public class IcaDistributionCenterImpl implements DistributionCenter {
     public void operate(String center) {
         System.out.println("Operate in Ica distribution center.");
     }
+    
 }

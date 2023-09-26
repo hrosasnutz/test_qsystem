@@ -38,4 +38,5 @@ public class Exercise1 {
         }
         return result;
     }
+    
 }

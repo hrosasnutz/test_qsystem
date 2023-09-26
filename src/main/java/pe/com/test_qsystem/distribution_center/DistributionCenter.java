@@ -6,4 +6,5 @@ public interface DistributionCenter {
     
     void operate(String center);
     
+    
 }

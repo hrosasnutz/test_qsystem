@@ -44,4 +44,5 @@ public class Exercise2 {
     public void operateInTrujillo() {
         manager.operate("TRUJILLO");
     }
+    
 }

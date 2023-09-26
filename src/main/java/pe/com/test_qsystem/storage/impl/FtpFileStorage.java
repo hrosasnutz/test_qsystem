@@ -8,4 +8,5 @@ public class FtpFileStorage implements FileStorage {
     public void saveFile(String path) {
         System.out.println("save file on ftp server.");
     }
+    
 }

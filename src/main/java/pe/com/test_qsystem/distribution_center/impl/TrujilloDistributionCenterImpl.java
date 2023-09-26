@@ -13,4 +13,5 @@ public class TrujilloDistributionCenterImpl implements DistributionCenter {
     public void operate(String center) {
         System.out.println("Operate in Trujillo distribution center.");
     }
+    
 }
